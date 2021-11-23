@@ -23,7 +23,7 @@ eLabFTW is an  ...
   - Start by going to the [LIVIVO Main Page](https://www.livivo.de/app) by typing "www.livivo.de" into your browser. 
   - This is what you should see:
 
-![LIVIVO_Main_Page](../fig/elabftw-logo.png)
+![eLabFTW](../fig/elabftw-logo.png)
 
 
 
